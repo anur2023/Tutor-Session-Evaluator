@@ -1,0 +1,55 @@
+PROTOCOL COMPLIANCE REPORT
+Overall Score: 31.65/100
+Text Length: 609 words
+
+TOP PERFORMING CATEGORIES:
+- Communication - Greeting the Student: 100/100
+- Teaching - Confirming the Problem: 100/100
+- Teaching - Revising or Teaching the Concept if Required: 100/100
+
+NEEDS IMPROVEMENT:
+- Teaching - Checking Student's Understanding of the Core Concept: 37.95/100
+- Teaching - Asking Student to Mark as Favourite Tutor: 31.13/100
+- Teaching - Asking Student to Rate the Session: 24.11/100
+
+PROTOCOL VIOLATIONS DETECTED:
+- misbehavior:
+  * ''
+  * ''
+  * ''
+- off_topic:
+  * ''
+  * ''
+  * ''
+
+DETAILED FEEDBACK:
+
+Teaching - Checking Student's Understanding of the Core Concept (37.95/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'have you studied this concept before'
+* 'are you familiar with this topic'
+* 'do you already know how this work'
+
+Teaching - Asking Student to Rate the Session (24.11/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'before we end could you rate this session'
+* 'id love to hear your feedback could you rate this session'
+* 'how would you rate today session'
+
+Teaching - Asking Student to Mark as Favourite Tutor (31.13/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'if you liked this session you can mark me a your favorite tutor'
+* 'id love to help you again—feel free to add me a your favorite tutor'
+* 'if you enjoyed learning with me you can favorite my profile for future session'

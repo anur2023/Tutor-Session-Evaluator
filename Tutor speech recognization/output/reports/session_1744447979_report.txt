@@ -1,0 +1,65 @@
+PROTOCOL COMPLIANCE REPORT
+Overall Score: 30.14/100
+Text Length: 807 words
+
+TOP PERFORMING CATEGORIES:
+- Communication - Greeting the Student: 100/100
+- Teaching - Confirming the Problem: 100/100
+- Teaching - Revising or Teaching the Concept if Required: 100/100
+
+NEEDS IMPROVEMENT:
+- Teaching - Checking Student's Understanding of the Core Concept: 34.76/100
+- Teaching - Asking Student to Rate the Session: 29.1/100
+- Teaching - Asking Student to Mark as Favourite Tutor: 25.34/100
+
+PROTOCOL VIOLATIONS DETECTED:
+- misbehavior:
+  * ''
+  * ''
+  * ''
+- off_topic:
+  * ''
+  * ''
+  * ''
+
+DETAILED FEEDBACK:
+
+Teaching - Checking Student's Understanding of the Core Concept (34.76/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'have you studied this concept before'
+* 'are you familiar with this topic'
+* 'do you already know how this work'
+
+Teaching - Confirming Student's Understanding at the End (36.99/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'before we end do you feel comfortable with what we covered'
+* 'did everything we discussed today make sense to you'
+* 'do you have any doubt or would you like me to explain anything again'
+
+Teaching - Asking Student to Rate the Session (29.1/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'before we end could you rate this session'
+* 'id love to hear your feedback could you rate this session'
+* 'how would you rate today session'
+
+Teaching - Asking Student to Mark as Favourite Tutor (25.34/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'if you liked this session you can mark me a your favorite tutor'
+* 'id love to help you again—feel free to add me a your favorite tutor'
+* 'if you enjoyed learning with me you can favorite my profile for future session'

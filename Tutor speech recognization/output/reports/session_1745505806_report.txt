@@ -1,0 +1,95 @@
+PROTOCOL COMPLIANCE REPORT
+Overall Score: 28.63/100
+Text Length: 1043 words
+
+TOP PERFORMING CATEGORIES:
+- Communication - Greeting the Student: 100/100
+- Teaching - Confirming the Problem: 100/100
+- Teaching - Revising or Teaching the Concept if Required: 100/100
+
+NEEDS IMPROVEMENT:
+- Teaching - Identifying the Student's Need: 30.69/100
+- Teaching - Asking Student to Mark as Favourite Tutor: 29.94/100
+- Teaching - Asking Student to Rate the Session: 27.39/100
+
+PROTOCOL VIOLATIONS DETECTED:
+- misbehavior:
+  * ''
+  * ''
+  * ''
+- off_topic:
+  * ''
+  * ''
+  * ''
+
+DETAILED FEEDBACK:
+
+Teaching - Identifying the Student's Need (30.69/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'what exactly do you need help with'
+* 'how can i help you with this topic'
+* 'are you looking for a full explanation or just a hint'
+
+Teaching - Identifying Student's Requirement (39.19/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'so do you need a full explanation or just a quick answer'
+* 'are you trying to understand the concept or solve the problem'
+* 'do you want a stepbystep solution or just a final answer'
+
+Teaching - Checking Student's Understanding of the Core Concept (36.64/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'have you studied this concept before'
+* 'are you familiar with this topic'
+* 'do you already know how this work'
+
+Teaching - Encouraging Student to Solve Independently (34.5/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'now i want you to try this step on your own'
+* 'go ahead and solve this part i know you can do it'
+* 'why do not you attempt this step ill be here if you need help'
+
+Teaching - Confirming Student's Understanding at the End (36.06/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'before we end do you feel comfortable with what we covered'
+* 'did everything we discussed today make sense to you'
+* 'do you have any doubt or would you like me to explain anything again'
+
+Teaching - Asking Student to Rate the Session (27.39/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'before we end could you rate this session'
+* 'id love to hear your feedback could you rate this session'
+* 'how would you rate today session'
+
+Teaching - Asking Student to Mark as Favourite Tutor (29.94/100):
+Verdict: Needs significant improvement
+Suggestions:
+- Review the protocol guidelines
+- Practice using recommended phrases
+Example phrases:
+* 'if you liked this session you can mark me a your favorite tutor'
+* 'id love to help you again—feel free to add me a your favorite tutor'
+* 'if you enjoyed learning with me you can favorite my profile for future session'
